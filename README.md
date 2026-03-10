@@ -1,1 +1,1 @@
-# ExerciciosProjetoArquitetura
+# ExercicioProjetoArquitetura
